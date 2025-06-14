@@ -1,12 +1,44 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎥 Live-Meet — Personal Live Streaming Platform
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-blue?style=for-the-badge&logo=netlify)](https://live-meet.netlify.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> 🧑‍💻 Built using **React + Vite** & powered by **ZEGOCLOUD**, this project allows seamless live video streaming and virtual meetings directly from your browser!
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Preview
+
+🌐 **Hosted on Netlify**  
+🔗 [https://live-meet.netlify.app/](https://live-meet.netlify.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React.js** – Frontend framework
+- ⚡ **Vite** – Fast development bundler
+- 📡 **ZEGOCLOUD SDK** – Real-time audio & video communication
+- 🌐 **Netlify** – Deployment
+
+---
+
+## ✨ Features
+
+✅ Create and join live rooms  
+✅ Real-time video + audio streaming  
+✅ Lightweight and fast with Vite  
+✅ Clean UI and responsive layout  
+✅ One-click deployment to Netlify
+
+---
+
+## 🧑‍💻 How to Use Locally
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/live-meet.git
+   
+
